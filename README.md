@@ -2,9 +2,9 @@
 
 I'm Ellen, I like making things.
 
-- 🌱 Studying CS/Math/Physics @ Stanford
-- 🔭 current: working on nature-inspired ML @ Stanford Prakash Lab
-- 🚀 research: RL & robotics, computer vision, meta-learning, ML architectures
+- 🌱 Studying CS/AI and Math @ Stanford
+- 🔭 currently: nature-inspired ML @ Stanford Prakash Lab
+- 🚀 research: neuroevolution, RL & robotics, computer vision, meta-learning, ML architectures
 
 [~/](http://stanford.edu/~ellenjxu/)
 
