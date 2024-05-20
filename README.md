@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Ellen, I like making things.
+
+- 🌱 Studying CS/Math/Physics @ Stanford
+- 🔭 current: working on nature-inspired ML @ Stanford Prakash Lab
+- 🚀 research: RL & robotics, computer vision, meta-learning, ML architectures
+
 <!--
 **ellenjxu/ellenjxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
