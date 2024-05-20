@@ -6,6 +6,8 @@ I'm Ellen, I like making things.
 - 🔭 current: working on nature-inspired ML @ Stanford Prakash Lab
 - 🚀 research: RL & robotics, computer vision, meta-learning, ML architectures
 
+[~/](http://stanford.edu/~ellenjxu/)
+
 <!--
 **ellenjxu/ellenjxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
