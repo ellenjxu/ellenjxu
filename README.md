@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ellen, I like making things.
+I'm Ellen, I enjoy puzzles and making things.
 
 - 🌱 Studying CS/AI and Math @ Stanford
 - 🔭 currently: nature-inspired ML @ Stanford Prakash Lab
